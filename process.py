@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the image
-image = cv2.imread('/Users/ham/Documents/Visual Studio Code/OCT-Ham-Test/OCT_Ham_Test/img079.jpeg')
+image = cv2.imread('/Users/ham/Documents/Visual Studio Code/OCT-Ham-Test/OCT_Ham_Test/047noise.jpg')
 
 # Convert to grayscale
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)

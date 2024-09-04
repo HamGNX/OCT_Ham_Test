@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the image
-image_path = '/Users/ham/Documents/Visual Studio Code/OCT-Ham-Test/OCT_Ham_Test/img047.jpeg'  # Replace with your image path
+image_path = '/Users/ham/Documents/Visual Studio Code/OCT-Ham-Test/OCT_Ham_Test/047noise.jpg'  # Replace with your image path
 image = cv2.imread(image_path)
 
 # Check if the image was loaded successfully
